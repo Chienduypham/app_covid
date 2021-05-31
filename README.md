@@ -2,9 +2,9 @@
 
 ##Module 
 
-pip install covid
-pip install Pillow
-pip install pandas
+####pip install covid
+####pip install Pillow
+####pip install pandas
 
 ![img](img.png)
 

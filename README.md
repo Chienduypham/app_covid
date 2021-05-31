@@ -1,0 +1,2 @@
+# app_covid
+skrttt
